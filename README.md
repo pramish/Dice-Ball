@@ -1,2 +1,2 @@
-# Learning_Swift_Udemy
-This is a first app made on swift.
+# DiceBall
+This is a first application made using Swift.
